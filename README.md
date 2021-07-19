@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aymen-saidi
-- 👀 I’m interested in machine learning, artificial intelligence, machine learning and deep learning
+- 👀 I’m interested in machine learning, artificial intelligence and deep learning
 - 🌱 I’m currently trying to learn working on some machine learning algorithms and features
 
 
